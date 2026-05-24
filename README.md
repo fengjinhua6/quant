@@ -7,7 +7,7 @@
 - [x] 注册 GitHub 账号
 - [x] 配置 SSH 密钥
 - [x] 创建本地仓库
-- [ ] git add / git commit
-- [ ] git push / git pull
+- [x] git add / git commit
+- [x] git push / git pull
 - [ ] 分支操作
 - [ ] 克隆别人的仓库
